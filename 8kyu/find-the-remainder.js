@@ -11,4 +11,4 @@ function remainder(n, m){
     } else {
       return (n > m ) ? n % m : m % n
     }
-  }
+  } 
